@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "first_name": "Baily",
+      "last_name": "Norton",
+      "email": "bnorton0@myspace.com",
+      "gender": "Male",
+      "department": "Engineering",
+      "salary": 5635,
+      "bonus": null,
+      "dateOfBirth": "15/10/2002"
+    },
+    {
+      "id": 2,
+      "first_name": "Ambros",
+      "last_name": "Glenny",
+      "email": "aglenny1@dropbox.com",
+      "gender": "Male",
+      "department": "Research and Development",
+      "salary": 3228,
+      "bonus": 2660,
+      "dateOfBirth": "02/01/1960"
+    },
+    {
+      "id": 3,
+      "first_name": "Caril",
+      "last_name": "Streeten",
+      "email": "cstreeten2@amazon.co.uk",
+      "gender": "Female",
+      "department": "Research and Development",
+      "salary": 5173,
+      "bonus": null,
+      "dateOfBirth": "31/03/1988"
+    },
+    {
+      "id": 4,
+      "first_name": "Lindy",
+      "last_name": "Brussell",
+      "email": "lbrussell3@ucoz.ru",
+      "gender": "Female",
+      "department": "Training",
+      "salary": 4951,
+      "bonus": null,
+      "dateOfBirth": "31/07/1983"
+    },
+    {
+      "id": 5,
+      "first_name": "Baron",
+      "last_name": "McLellan",
+      "email": "bmclellan4@columbia.edu",
+      "gender": "Male",
+      "department": "Product Management",
+      "salary": 5684,
+      "bonus": null,
+      "dateOfBirth": "20/10/1994"
+    },
+    {
+      "id": 6,
+      "first_name": "Raymond",
+      "last_name": "Ralfe",
+      "email": "rralfe5@tmall.com",
+      "gender": "Male",
+      "department": "Legal",
+      "salary": 2258,
+      "bonus": 2788,
+      "dateOfBirth": "16/08/1968"
+    },
+    {
+      "id": 7,
+      "first_name": "Fraser",
+      "last_name": "Lamshead",
+      "email": "flamshead6@live.com",
+      "gender": "Male",
+      "department": "Business Development",
+      "salary": 5915,
+      "bonus": 274,
+      "dateOfBirth": "29/05/1965"
+    },
+    {
+      "id": 8,
+      "first_name": "Theadora",
+      "last_name": "Erley",
+      "email": "terley7@patch.com",
+      "gender": "Female",
+      "department": "Legal",
+      "salary": 5701,
+      "bonus": 762,
+      "dateOfBirth": "17/04/1976"
+    },
+    {
+      "id": 9,
+      "first_name": "Seumas",
+      "last_name": "Lerwell",
+      "email": "slerwell8@unesco.org",
+      "gender": "Male",
+      "department": "Accounting",
+      "salary": 4984,
+      "bonus": 2413,
+      "dateOfBirth": "06/06/1987"
+    },
+    {
+      "id": 10,
+      "first_name": "Martguerita",
+      "last_name": "Kindleside",
+      "email": "mkindleside9@netvibes.com",
+      "gender": "Female",
+      "department": "Support",
+      "salary": 6168,
+      "bonus": null,
+      "dateOfBirth": "22/09/1980"
+    }
+  ]
