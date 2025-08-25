@@ -38,7 +38,15 @@ The program is split into four tasks, with each one focused on a different piece
 
 company-data-analysis/
 
--- companydata\_analysis.py # main program
+-- CompanyData.csv
+
+-- README.md
+
+-- company_data.json
+
+-- companydata_analysis.py # main program
+
+-- requirements.txt
 
 -- task1.py
 
@@ -48,22 +56,11 @@ company-data-analysis/
 
 -- task4.py
 
--- company\_data.json
-
--- CompanyData.csv
-
--- requirements.txt
-
--- README.md
-
-
 
 \## Installation
 
 
-
 Clone the repository:
-
 
 
 git clone https://github.com/labropouloun/company-data-analysis.git
